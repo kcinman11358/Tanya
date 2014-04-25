@@ -52,38 +52,6 @@ namespace TANYA
         public void Commands(string speech, int ranNum)
         {
 
-            switch (commandCounter)
-            {
-                case 1:
-                    {
-                        // initial conversation
-                        // open browser could be in this list
-
-                        /* for example:
-                         * speech.contains "weather"
-                         * TANYA.speak("its sunny, look outside");
-                         * reset commandCounter
-                         * 
-                            
-                         */
-                        break;
-                    }
-                case 2:
-                    {
-                        // mid point conversation
-                        // 
-                        break;
-                    }
-                case 3:
-                    {
-                        // closer conversation
-                        break;
-                    }
-                default: commandCounter = 0;
-                    break;
-            }
-
-
             Console.Write(speech);
             switch (speech)
             {
