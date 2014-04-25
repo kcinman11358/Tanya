@@ -1,0 +1,8 @@
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\bin\Debug\TANYA.exe
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\bin\Debug\TANYA.pdb
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\obj\x86\Debug\TANYA.Form1.resources
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\obj\x86\Debug\TANYA.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\obj\x86\Debug\TANYA.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\obj\x86\Debug\TANYA.exe
+c:\users\nick\documents\visual studio 2010\Projects\TANYA\TANYA\obj\x86\Debug\TANYA.pdb
+C:\Users\Nick\documents\visual studio 2010\Projects\TANYA\TANYA\obj\x86\Debug\TANYA.csprojResolveAssemblyReference.cache
